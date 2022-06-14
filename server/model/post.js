@@ -6,4 +6,4 @@ const postSchema = new MSchema({
     userId: String
 });
 
-module.exports = mongoose.model("Post", postSchema);
+//module.exports = mongoose.model("Post", postSchema);
